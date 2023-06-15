@@ -1,0 +1,12 @@
+﻿  dllmain.cpp
+C:\Users\Gugugaga\accessible\TaskUnmanager\UnmanagerDLL\dllmain.cpp(82,7): warning C4101: "isWowProcess": Unreferenzierte lokale Variable
+  FunctionHooker.cpp
+C:\Users\Gugugaga\accessible\TaskUnmanager\UnmanagerDLL\FunctionHooker.cpp(11,27): warning C4311: "Typumwandlung": Zeigerverkürzung von "void *" zu "int"
+C:\Users\Gugugaga\accessible\TaskUnmanager\UnmanagerDLL\FunctionHooker.cpp(11,27): warning C4302: "Typumwandlung": Verkürzung von "void *" in "int"
+C:\Users\Gugugaga\accessible\TaskUnmanager\UnmanagerDLL\FunctionHooker.cpp(34,30): warning C4309: "=": Verkürzung eines konstanten Wertes
+C:\Users\Gugugaga\accessible\TaskUnmanager\UnmanagerDLL\FunctionHooker.cpp(66,13): warning C4244: "+=": Konvertierung von "SIZE_T" in "int", möglicher Datenverlust
+C:\Users\Gugugaga\accessible\TaskUnmanager\UnmanagerDLL\FunctionHooker.cpp(116,30): warning C4309: "=": Verkürzung eines konstanten Wertes
+C:\Users\Gugugaga\accessible\TaskUnmanager\UnmanagerDLL\FunctionHooker.cpp(118,31): warning C4309: "=": Verkürzung eines konstanten Wertes
+C:\Users\Gugugaga\accessible\TaskUnmanager\UnmanagerDLL\FunctionHooker.cpp(149,13): warning C4244: "+=": Konvertierung von "SIZE_T" in "int", möglicher Datenverlust
+  Code wird generiert...
+  UnmanagerDLL.vcxproj -> C:\Users\Gugugaga\accessible\TaskUnmanager\x64\Debug\UnmanagerDLL.dll
